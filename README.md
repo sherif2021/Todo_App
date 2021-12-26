@@ -6,7 +6,7 @@ A Todo App Using Flutter And some Third-party Packages
 2- Hive -> Local Database\
 3- flutter Slidable -> Slidable Items In ListView\
 4- Date Time Picker -> To Pick a Date Time\
-5- flutter ColorPicker -> To Pick a Color\
+5- flutter ColorPicker -> To Pick a Color
 
 ## ScreenShots
 
